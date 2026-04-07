@@ -1,5 +1,7 @@
 .data/
+.csv
 *.csv
 *.png
 *.jpg
 *.jpeg
+_pycache__/
